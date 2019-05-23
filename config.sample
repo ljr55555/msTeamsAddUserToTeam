@@ -1,0 +1,4 @@
+strClientID = "AppRegistrationInYourTenant"
+strClientSecret = "SecretForThatRegistration"
+strGraphAuthURL = 'https://login.microsoftonline.com/YourTenantID/oauth2/v2.0/token'
+
